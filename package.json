@@ -11,5 +11,11 @@
     "url": "git+https://github.com/jackgit/learn-webpack.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "vue": "^2.1.8"
+  }
 }
